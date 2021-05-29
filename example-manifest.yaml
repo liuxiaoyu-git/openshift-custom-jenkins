@@ -6,7 +6,7 @@ metadata:
 spec:
   source:
     git:
-      uri: https://github.com/mosuke5/openshift-custom-jenkins
+      uri: https://github.com/liuxiaoyu-git/openshift-custom-jenkins
       ref: master
     type: Git
   strategy:
@@ -45,7 +45,7 @@ spec:
   source:
     type: Git
     git:
-      uri: https://github.com/mosuke5/openshift-custom-jenkins
+      uri: https://github.com/liuxiaoyu-git/openshift-custom-jenkins
       ref: master
 ---
 kind: ImageStream
